@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ba.vaktija.tv.app-mergeReleaseResources-34:/layout/activity_main.xml",
+        "source": "ba.vaktija.tv.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AmarTahirovic\\.gradle\\daemon\\8.7\\ba.vaktija.tv.app-mergeReleaseResources-34:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\AmarTahirovic\\.gradle\\daemon\\8.7\\ba.vaktija.tv.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AmarTahirovic\\.gradle\\daemon\\8.7\\ba.vaktija.tv.app-mergeReleaseResources-34:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\AmarTahirovic\\.gradle\\daemon\\8.7\\ba.vaktija.tv.app-main-36:\\layout\\activity_settings.xml"
+    }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="background_dark">#0A0A0F</color>
+    <color name="background_card">#13131A</color>
+    <color name="background_card_hover">#1C1C26</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F5F5F7</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_tertiary">#48484D</color>
+
+    <!-- Accent -->
+    <color name="accent_gold">#C9A96E</color>
+    <color name="accent_gold_dim">#5A4A2E</color>
+    <color name="accent_blue">#0A84FF</color>
+
+    <!-- UI -->
+    <color name="divider">#1C1C1C</color>
+    <color name="card_stroke">#222228</color>
+
+    <!-- Jummah -->
+    <color name="jummah_bg">#060810</color>
+    <color name="azan_bg">#060A06</color>
+</resources>

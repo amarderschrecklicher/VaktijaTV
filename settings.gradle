@@ -1,0 +1,2 @@
+rootProject.name = "VaktijaTV"
+include ':app'

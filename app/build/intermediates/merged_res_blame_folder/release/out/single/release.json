@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/mipmap-mdpi_ic_launcher_mdpi.png.flat",
+        "source": "ba.vaktija.tv.app-main-36:/mipmap-mdpi/ic_launcher_mdpi.png"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_ic_launcher.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/mipmap-hdpi_ic_launcher_hdpi.png.flat",
+        "source": "ba.vaktija.tv.app-main-36:/mipmap-hdpi/ic_launcher_hdpi.png"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_ic_launcher_background.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_settings_btn.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_settings_btn.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_xxhdpi.png.flat",
+        "source": "ba.vaktija.tv.app-main-36:/mipmap-xxhdpi/ic_launcher_xxhdpi.png"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_cancel_btn.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_cancel_btn.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/mipmap-xhdpi_ic_launcher_xhdpi.png.flat",
+        "source": "ba.vaktija.tv.app-main-36:/mipmap-xhdpi/ic_launcher_xhdpi.png"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/raw_azan_fajr.mp3.flat",
+        "source": "ba.vaktija.tv.app-main-36:/raw/azan_fajr.mp3"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/raw_azan.mp3.flat",
+        "source": "ba.vaktija.tv.app-main-36:/raw/azan.mp3"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_gradient.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_gradient.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/layout_activity_settings.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_xxxhdpi.png.flat",
+        "source": "ba.vaktija.tv.app-main-36:/mipmap-xxxhdpi/ic_launcher_xxxhdpi.png"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_jummah.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_jummah.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_save_btn.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_save_btn.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_azan.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_azan.xml"
+    },
+    {
+        "merged": "ba.vaktija.tv.app-merged_res-35:/drawable_bg_prayer_card.xml.flat",
+        "source": "ba.vaktija.tv.app-main-36:/drawable/bg_prayer_card.xml"
+    }
+]
